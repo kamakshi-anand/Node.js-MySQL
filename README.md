@@ -20,13 +20,13 @@ MANAGER VIEW:-
         * Add to Inventor
         * Add New Product
 
-  1) If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
+  1) If a manager selects `View Products for Sale`, the app will list every available item: the item IDs, names, prices, and quantities.
 
-  2) If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+  2) If a manager selects `View Low Inventory`, then it will list all items with an inventory count lower than five.
 
-  3) If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently       in the store.
+  3) If a manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently       in the store.
 
-  4) If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
+  4) If a manager selects `Add New Product`, it will allow the manager to add a completely new product to the store.
 
    
 
