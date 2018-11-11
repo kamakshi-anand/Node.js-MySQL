@@ -50,7 +50,7 @@ function buyProduct() {
         {
             name: "qty",
             type: "input",
-            message: "How many?",
+            message: "how many units of the product they would like to buy?",
             validate: function (value) {
                 if (isNaN(value) === false) {
                     return true;
